@@ -1,0 +1,77 @@
+/* main block */
+#a{
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 100px;
+    background-image: linear-gradient(to top,pink,rgb(82, 82, 230));
+}
+#in{
+    width: 230px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+    margin-right: 0px;
+}
+/* #isearch{
+    width: 30px;
+    height: 30px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 100%;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+} */
+#button{
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+#srci{
+    width: 200px;
+}
+#temp{
+    color: white;
+}
+#city{
+    color: white;
+}
+
+#b{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+#hum{
+    width: 20px;
+    margin-top: 30px;
+    margin-left: 35px;
+    
+}
+#humidity{
+    margin-top: 30px;
+    margin-left: 0px;
+    color: white;
+}
+#sm{
+    padding-right: 55px;
+    padding-left: 10px;
+}
+#wind{
+    width: 30px;
+    margin-top: 30px;
+    margin-left: 18px;
+}
+#kmwind{
+    margin-top: 30px;
+    margin-left: 0px;
+    color: white;
+}
+#win{
+    padding-left: 10px;
+}
