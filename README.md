@@ -19,6 +19,6 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 
 ## 📸 Demo
 
-Check out the live demo here: [🌤️ Weather App Live](https://your-username.github.io/weather-app/)
+Check out the live demo here: [🌤️ Weather App Live](https://santhoshyadavally.github.io/Weather-Project/)
 
 
